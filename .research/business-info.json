@@ -1,0 +1,20 @@
+{
+  "businessName": "Plumbing And Electrical Compan",
+  "category": "handyman",
+  "brandColors": {
+    "primary": "#D35400",
+    "secondary": "#E67E22",
+    "accent": "#27AE60",
+    "dark": "#A04000",
+    "light": "#FEF5E7"
+  },
+  "tagline": "Home Repair Experts",
+  "services": [
+    "General Repairs",
+    "Painting",
+    "Furniture Assembly",
+    "Door/Window Repairs",
+    "Maintenance",
+    "Renovations"
+  ]
+}
